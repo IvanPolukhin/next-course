@@ -1,1 +1,1 @@
-# [https://next-course-drab-three.vercel.app/]
+# https://next-course-drab-three.vercel.app/
